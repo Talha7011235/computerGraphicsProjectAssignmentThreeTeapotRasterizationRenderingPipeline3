@@ -1,0 +1,16 @@
+rasterize
+*~
+*.o
+*.vcxproj
+*.filters
+*.user
+*.d
+*.zip
+*.cpp#
+*.cpp~
+*.ppm
+hide
+shade
+.vscode
+rtrace
+
